@@ -1,3 +1,13 @@
+---
+layout: default
+title: Líder en Modo Debug
+description: Historias, decisiones y aprendizajes de un líder entre tecnología, producto y negocio.
+---
+
+<div style="display: flex; flex-direction: row; gap: 2rem; align-items: flex-start;">
+
+  <div style="flex: 2;">
+
 # Líder en Modo Debug
 
 Este no es un blog de frases motivacionales.  
@@ -14,7 +24,17 @@ Si alguna vez tuviste que explicar por qué una feature no salió a tiempo, este
 
 **Bienvenid@ al modo debug del liderazgo.**
 
----
+## Sobre mí
+
+Soy Rodrigo, uso remera negra casi todos los días y aprendí que liderar tecnología, producto y negocio no se trata de tener todas las respuestas, sino de saber hacer buenas preguntas en medio del caos.
+
+Tengo un MBA, casi 20 años de experiencia entre startups, corporativos, pitchs que salieron mal y productos que salieron bien. Fui CTO, director de producto, ingeniero, y cofundador. Hoy lidero equipos que construyen cosas reales y trato de evitar el PowerPoint vacío.
+
+**Escribo para los que ejecutan. Los que aprenden. Los que lideran con dudas y aún así, avanzan.**
+
+  </div>
+
+  <div style="flex: 1;">
 
 ## Últimas publicaciones
 
@@ -27,14 +47,6 @@ Si alguna vez tuviste que explicar por qué una feature no salió a tiempo, este
   {% endfor %}
 </ul>
 
----
+  </div>
 
-## Sobre mí
-
-Soy Rodrigo, uso remera negra casi todos los días y aprendí que liderar tecnología, producto y negocio no se trata de tener todas las respuestas, sino de saber hacer buenas preguntas en medio del caos.
-
-Tengo un MBA, casi 20 años de experiencia entre startups, corporativos, pitchs que salieron mal y productos que salieron bien. Fui CTO, director de producto, ingeniero, y cofundador. Hoy lidero equipos que construyen cosas reales y trato de evitar el PowerPoint vacío.
-
-Este blog no es para hablar de frameworks. Es para hablar de lo que pasa cuando hay que tomar decisiones con incertidumbre, cuando el roadmap se rompe, y cuando el equipo importa más que el proceso.
-
-**Escribo para los que ejecutan. Los que aprenden. Los que lideran con dudas y aún así, avanzan.**
+</div>
