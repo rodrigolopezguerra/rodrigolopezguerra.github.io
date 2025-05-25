@@ -4,4 +4,6 @@ description: Para los que ejecutan. Los que aprenden. Los que lideran con dudas 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-site.github.owner_url: https://www.linkedin.com/rodrigolopezguerra 
+github:
+  is_project_page: false
+  is_user_page: false
