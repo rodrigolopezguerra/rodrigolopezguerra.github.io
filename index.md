@@ -3,15 +3,10 @@ layout: default
 title: Líder en Modo Debug
 description: Historias, decisiones y aprendizajes de un líder entre tecnología, producto y negocio.
 ---
-
-<div style="display: flex; flex-direction: row; gap: 2rem; align-items: flex-start;">
-
-  <div style="flex: 2;">
-
 # Líder en Modo Debug
 
-Este no es un blog de frases motivacionales.  
-Tampoco es un manual de metodologías perfectas.  
+Este no es un blog de frases motivacionales.
+Tampoco es un manual de metodologías perfectas.
 Es un espacio real, escrito por alguien que **lidera, ejecuta y aprende** en medio de la entropía.
 
 Acá vas a encontrar:
@@ -32,9 +27,7 @@ Tengo un MBA, casi 20 años de experiencia entre startups, corporativos, pitchs 
 
 **Escribo para los que ejecutan. Los que aprenden. Los que lideran con dudas y aún así, avanzan.**
 
-  </div>
 
-  <div style="flex: 1;">
 
 ## Últimas publicaciones
 
@@ -46,7 +39,3 @@ Tengo un MBA, casi 20 años de experiencia entre startups, corporativos, pitchs 
     </li>
   {% endfor %}
 </ul>
-
-  </div>
-
-</div>
