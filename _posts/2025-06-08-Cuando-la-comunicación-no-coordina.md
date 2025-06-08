@@ -1,6 +1,6 @@
 ---
 created: 2025-06-08T16:07:32-03:00
-modified: 2025-06-08T16:26:30-03:00
+modified: 2025-06-08T16:27:44-03:00
 ---
 
 # La ilusión del turno: cuando la comunicación no coordina
@@ -54,10 +54,10 @@ El resultado:
 
 Muy simple: **alinear la expectativa visual con la lógica real.**
 
-- 📌 Mostrar en la pantalla no solo el número que está siendo atendido, sino también el **turno asignado** de cada persona.
-- 👁️ O incluir un texto claro en la pantalla tipo:  
+- Mostrar en la pantalla no solo el número que está siendo atendido, sino también el **turno asignado** de cada persona.
+- O incluir un texto claro en la pantalla tipo:  
   *“Los turnos se atienden según su horario, no por orden de llegada”*.
-- 🧠 O aún mejor: **mostrar tu número en pantalla con un contador de “faltan X antes que vos”**.
+- O aún mejor: **mostrar tu número en pantalla con un contador de “faltan X antes que vos”**.
 
 ---
 
