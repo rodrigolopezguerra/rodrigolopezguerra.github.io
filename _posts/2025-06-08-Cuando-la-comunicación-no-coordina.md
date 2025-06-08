@@ -1,6 +1,6 @@
 ---
 created: 2025-06-08T16:07:32-03:00
-modified: 2025-06-08T16:08:34-03:00
+modified: 2025-06-08T16:26:30-03:00
 ---
 
 # La ilusión del turno: cuando la comunicación no coordina
@@ -8,11 +8,12 @@ modified: 2025-06-08T16:08:34-03:00
 ---
 layout: post
 title: "La ilusión del turno: cuando la comunicación no coordina"
-date: 2025-05-27
+date: 2025-08-06
 ---
 
 ![Image](./c8cdf03fecae0bcf4d49c9fa77856bc8.jpg) 
 ![Image](./2410295cf73fc3144d3ccabdbd43e79c.jpg) 
+
 
 Fui a hacerme un estudio.  
 Saqué número. Me dieron el RER105.  
